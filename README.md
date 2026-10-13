@@ -1,3 +1,5 @@
+> **JSS fork:** read [AGENTS.md in jss17035/ai-stack](https://github.com/jss17035/ai-stack/blob/main/AGENTS.md) first. It has the shared mission and rules for every agent.
+
 # Cubicle
 
 **A live pixel-art office for your AI agents.** Works with [Paperclip](https://github.com/paperclipai/paperclip), [Claude Code](https://claude.com/claude-code), or any tool that can write a small JSON file.
